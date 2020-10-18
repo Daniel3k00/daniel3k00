@@ -12,10 +12,10 @@
 
 
 ## ![ladno](https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/statistics_outline_28.svg) Github Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Daniel3k00&show_icons=true&theme=vue)
+![Stats](https://github-readme-stats.vercel.app/api?username=Daniel3k00&show_icons=true&theme=dark)
 
 ## ![ladno](https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/work_outline_28.svg) Repositories
-[![Socks5Checker](https://github-readme-stats.vercel.app/api/pin/?username=Daniel3k00&repo=PRNKBT&show_owner=true&theme=vue)](https://github.com/Daniel3k00/PRNKBT)
-[![VKSpammer](https://github-readme-stats.vercel.app/api/pin/?username=Daniel3k00&repo=telegraph-parser&show_owner=true&theme=vue)](https://github.com/Daniel3k00/telegraph-parser)
-[![Natribot](https://github-readme-stats.vercel.app/api/pin/?username=Daniel3k00&repo=EliteHack&show_owner=true&theme=vue)](https://github.com/Daniel3k00/EliteHack)
-[![My website](https://github-readme-stats.vercel.app/api/pin/?username=Daniel3k00&repo=nekoslife&show_owner=true&theme=vue)](https://github.com/Daniel3k00/nekoslife) 
+[![Socks5Checker](https://github-readme-stats.vercel.app/api/pin/?username=Daniel3k00&repo=PRNKBT&show_owner=true&theme=dark)](https://github.com/Daniel3k00/PRNKBT)
+[![VKSpammer](https://github-readme-stats.vercel.app/api/pin/?username=Daniel3k00&repo=telegraph-parser&show_owner=true&theme=dark)](https://github.com/Daniel3k00/telegraph-parser)
+[![Natribot](https://github-readme-stats.vercel.app/api/pin/?username=Daniel3k00&repo=EliteHack&show_owner=true&theme=dark)](https://github.com/Daniel3k00/EliteHack)
+[![My website](https://github-readme-stats.vercel.app/api/pin/?username=Daniel3k00&repo=nekoslife&show_owner=true&theme=dark)](https://github.com/Daniel3k00/nekoslife) 
