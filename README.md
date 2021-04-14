@@ -13,8 +13,3 @@
 
 ## ![ladno](https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/statistics_outline_28.svg) Github Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=D4n13l3k00&show_icons=true&theme=dark)
-
-## ![ladno](https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/work_outline_28.svg) Repositories
-[![PRNKBT](https://github-readme-stats.vercel.app/api/pin/?username=D4n13l3k00&repo=PRNKBT&show_owner=true&theme=dark)](https://github.com/D4n13l3k00/PRNKBT)
-[![EliteHack](https://github-readme-stats.vercel.app/api/pin/?username=D4n13l3k00&repo=EliteHack&show_owner=true&theme=dark)](https://github.com/D4n13l3k00/EliteHack)
-[![some-shit-code](https://github-readme-stats.vercel.app/api/pin/?username=D4n13l3k00&repo=some-shit-code&show_owner=true&theme=dark)](https://github.com/D4n13l3k00/some-shit-code)
